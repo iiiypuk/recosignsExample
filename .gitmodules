@@ -1,0 +1,3 @@
+[submodule "recosigns"]
+	path = recosigns
+	url = https://github.com/fakt309/recosigns.git
